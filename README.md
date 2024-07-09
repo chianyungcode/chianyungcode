@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chian Yung</h1>
-<h3 align="center">A passionate full stack developer from Indonesia</h3>
+<!-- <h3 align="center">A passionate full stack developer from Indonesia</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnytechcode&label=Profile%20views&color=0e75b6&style=flat" alt="cnytechcode" /> </p>
 
-- 🔭 I’m currently working on [kiys website](https://github.com/chianyungcode/kiys-backend)
+- 🔭 I’m currently working on [Kiys](https://github.com/chianyungcode/kiys-backend)
 
 - 👨‍💻 All of my projects are available at [https://chianyung.dev](https://chianyung.dev)
 
