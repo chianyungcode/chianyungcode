@@ -1,7 +1,6 @@
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-<!-- Kiri: Tabel Profil -->
-<div>
+<table>
+<tr>
+<td>
 
 ## 💬 ABOUT ME
 
@@ -15,16 +14,14 @@
 
 > macOS user and I use Arch 😎 BTW
 
-</div>
-
-<!-- Kanan: Badge dan Widget -->
-<div>
+</td>
+<td>
 
 ![](https://komarev.com/ghpvc/?username=chianyungcode)
 [![wakatime](https://wakatime.com/badge/user/697ab2f9-81cb-4eb2-8665-281d9ba95c02.svg)](https://wakatime.com/@697ab2f9-81cb-4eb2-8665-281d9ba95c02)
 [![Website](https://img.shields.io/badge/website-visit-orange)](https://chianyung.dev)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z6po3zjuhyqn3puduci4uc6s3i&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31z6po3zjuhyqn3puduci4uc6s3i&redirect=true)
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
