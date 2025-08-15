@@ -385,6 +385,8 @@
 
 <!-- DAILY.DEV SECTION -->
 
+<!--
+
 <h2 align="center">📆 DAILY DEV 🗓️</h2>
 
 <details>
@@ -397,6 +399,8 @@
         </a>
     </div>
 </details>
+
+-->
 
 <!-- HOLOPIN SECTION -->
 
