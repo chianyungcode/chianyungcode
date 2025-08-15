@@ -2,15 +2,39 @@
 
   <!-- Kiri: ABOUT ME table -->
   <div>
-| INFO       | DETAIL |
-|------------|--------|
-| **REAL NAME** | Chian Yung |
-| **NICKNAME**  | Seraphynee |
-| **GENDER**    | Male 😎 |
-| **LOCATION**  | Jakarta, Indonesia |
-| **MAJOR**     | Computer Science 💻 |
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>INFO</th>
+      <th>DETAIL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>REAL NAME</strong></td>
+      <td>Chian Yung</td>
+    </tr>
+    <tr>
+      <td><strong>NICKNAME</strong></td>
+      <td>Seraphynee</td>
+    </tr>
+    <tr>
+      <td><strong>GENDER</strong></td>
+      <td>Male 😎</td>
+    </tr>
+    <tr>
+      <td><strong>LOCATION</strong></td>
+      <td>Jakarta, Indonesia</td>
+    </tr>
+    <tr>
+      <td><strong>MAJOR</strong></td>
+      <td>Computer Science 💻</td>
+    </tr>
+  </tbody>
+</table>
 
-> macOS user and I use Arch 😎 BTW
+<p><em>macOS user and I use Arch 😎 BTW</em></p>
+
   </div>
 
   <!-- Kanan: Badges & Spotify -->
