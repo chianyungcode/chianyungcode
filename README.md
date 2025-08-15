@@ -2,33 +2,33 @@
 
   <!-- Kiri: ABOUT ME table -->
   <div>
-    <table border="1" cellspacing="0" cellpadding="6">
+    <table style="border-collapse: collapse; border: 1px solid #555;">
       <thead>
         <tr>
-          <th>INFO</th>
-          <th>DETAIL</th>
+          <th style="border: 1px solid #555; padding: 6px; background-color: #222; color: #fff;">INFO</th>
+          <th style="border: 1px solid #555; padding: 6px; background-color: #222; color: #fff;">DETAIL</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td><strong>REAL NAME</strong></td>
-          <td>Chian Yung</td>
+          <td style="border: 1px solid #555; padding: 6px;"><strong>REAL NAME</strong></td>
+          <td style="border: 1px solid #555; padding: 6px;">Chian Yung</td>
         </tr>
         <tr>
-          <td><strong>NICKNAME</strong></td>
-          <td>Seraphynee</td>
+          <td style="border: 1px solid #555; padding: 6px;"><strong>NICKNAME</strong></td>
+          <td style="border: 1px solid #555; padding: 6px;">Seraphynee</td>
         </tr>
         <tr>
-          <td><strong>GENDER</strong></td>
-          <td>Male 😎</td>
+          <td style="border: 1px solid #555; padding: 6px;"><strong>GENDER</strong></td>
+          <td style="border: 1px solid #555; padding: 6px;">Male 😎</td>
         </tr>
         <tr>
-          <td><strong>LOCATION</strong></td>
-          <td>Jakarta, Indonesia</td>
+          <td style="border: 1px solid #555; padding: 6px;"><strong>LOCATION</strong></td>
+          <td style="border: 1px solid #555; padding: 6px;">Jakarta, Indonesia</td>
         </tr>
         <tr>
-          <td><strong>MAJOR</strong></td>
-          <td>Computer Science 💻</td>
+          <td style="border: 1px solid #555; padding: 6px;"><strong>MAJOR</strong></td>
+          <td style="border: 1px solid #555; padding: 6px;">Computer Science 💻</td>
         </tr>
       </tbody>
     </table>
