@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td>
+<td valign="top">
 
 ## 💬 ABOUT ME
 
@@ -15,7 +15,7 @@
 > macOS user and I use Arch 😎 BTW
 
 </td>
-<td>
+<td valign="top">
 
 ![](https://komarev.com/ghpvc/?username=chianyungcode)
 [![wakatime](https://wakatime.com/badge/user/697ab2f9-81cb-4eb2-8665-281d9ba95c02.svg)](https://wakatime.com/@697ab2f9-81cb-4eb2-8665-281d9ba95c02)
