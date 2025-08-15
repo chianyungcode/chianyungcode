@@ -69,8 +69,8 @@
   </div>
   <!-- Spotify Github Profile: https://github.com/kittinan/spotify-github-profile -->
   <div align="center">
-    <a align="center" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ms2mpwauroluxnjudw7a6u336e&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ms2mpwauroluxnjudw7a6u336e&cover_image=true&theme=default&show_offline=false&background_color=1a1b27&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" width="260px">
+    <a align="center" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31z6po3zjuhyqn3puduci4uc6s3i&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31z6po3zjuhyqn3puduci4uc6s3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" alt="Spotify Now Playing" width="260px">
     </a>
   </div>
 </div>
