@@ -198,7 +198,7 @@
 
 <section>
   <h3>Coding...</h3>
-  <a href="https://leetcode.com/u/KevinNitro/">
+  <a href="https://leetcode.com/u/chianyungcode/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
@@ -323,18 +323,18 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chianyungcode&langs_count=10&theme=tokyonight&card_width=570&layout=compact" alt="chianyungcode's Top Langs">
       <br>
       <!-- WakaTime: https://github.com/anuraghazra/github-readme-stats -->
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KevinNitro&theme=tokyonight&card_width=570&layout=compact&langs_count=10&custom_title=chianyungcode%27s%20WakaTime%20in%20last%20year" alt="chianyungcode's WakaTime in last year" width="570px">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chianyungcode&theme=tokyonight&card_width=570&layout=compact&langs_count=10&custom_title=chianyungcode%27s%20WakaTime%20in%20last%20year" alt="chianyungcode's WakaTime in last year" width="570px">
       <br>
       <!-- Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=chianyungcode&theme=tokyo-night&radius=12&hide_border=false&area=true" alt="chianyungcode's Activity Graph" width="570px">
       <br>
       <!-- Github Trophies: https://github.com/ryo-ma/github-profile-trophy -->
-      <img src="https://github-profile-trophy.vercel.app/?username=chianyungcode&column=5&theme=tokyonight&no-bg=false" alt="KevinNitro's Trophies" width="570px">
+      <img src="https://github-profile-trophy.vercel.app/?username=chianyungcode&column=5&theme=tokyonight&no-bg=false" alt="Chian Yung's Trophies" width="570px">
       <!-- <br> -->
       <!-- Spotify Recently Played: https://github.com/JeffreyCA/spotify-recently-played-readme -->
       <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ms2mpwauroluxnjudw7a6u336e&count=5&width=570" alt="Spotify Recently Played" width="570px"> -->
         <!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
-      <img src="https://leetcard.jacoblin.cool/KevinNitro?theme=nord&font=Noto%20Sans&ext=heatmap" alt="KevinNitro's LeetCode Stats" width="570px">
+      <img src="https://leetcard.jacoblin.cool/chianyungcode?theme=nord&font=Noto%20Sans&ext=heatmap" alt="Chian Yung's LeetCode Stats" width="570px">
     </div>
 
 </details>
