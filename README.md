@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <td align="center"><strong>MAJOR</strong></td>
-      <td>Software Engineering 👨🏻‍💻</td>
+      <td>Computer Science</td>
     </tr>
   </tbody>
   <tfoot>
