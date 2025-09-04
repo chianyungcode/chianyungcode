@@ -135,7 +135,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F9AB00?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=educative&logoColor=white"> <!-- old logo is powershell -->
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
@@ -146,7 +146,6 @@
 
 <section>
 <h3>Databases</h3>
-  <img src="https://img.shields.io/badge/redis-%23DD0031?&style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/postgres-23316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
@@ -189,7 +188,7 @@
   <h3>Text Editors / Code Editors / IDEs</h3>
   <img src="https://img.shields.io/badge/NeoVim-2357A143?&style=for-the-badge&logo=neovim&logoColor=white">
   <img src="https://img.shields.io/badge/Vim-019733?&style=for-the-badge&logo=vim&logoColor=white">
-  <img src="https://img.shields.io/badge/zed-white?&style=for-the-badge&logo=zedindustries&logoColor=white">
+  <img src="https://img.shields.io/badge/zed-white?style=for-the-badge&logo=zedindustries&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> -->
 </section>
@@ -198,9 +197,8 @@
   <h3>Terminals</h3>
   <img src="https://img.shields.io/badge/kitty-000000?style=for-the-badge">
   <img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term&style=for-the-badge">
-  <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge">
+  <img src="https://img.shields.io/badge/wezterm-4E49EE?logo=wezterm&style=for-the-badge">
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
-  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/ghosty-3551f3?style=for-the-badge&logo=ghostery&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white"> -->
@@ -284,41 +282,41 @@
 <!-- WakaTime Readme Stats: https://github.com/anmol098/waka-readme-stats -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages: 
-Bash                     5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Cheetah                  4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-TypeScript               4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Markdown                 3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Lua                      2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+💬 Programming Languages:
+Bash                     5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.74 %
+Cheetah                  4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 %
+TypeScript               4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 %
+Markdown                 3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.02 %
+Lua                      2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
 
-🔥 Editors: 
-Neovim                   27 hrs 17 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+Neovim                   27 hrs 17 mins      █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-chezmoi                  12 hrs 2 mins       ███████████░░░░░░░░░░░░░░   44.12 % 
-allweezy-backend         5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Unknown Project          5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-chianyungcode            2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-vault-obsidian           30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+🐱‍💻 Projects:
+chezmoi                  12 hrs 2 mins       ███████████░░░░░░░░░░░░░░   44.12 %
+allweezy-backend         5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 %
+Unknown Project          5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 %
+chianyungcode            2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+vault-obsidian           30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 
-💻 Operating System: 
-Linux                    14 hrs 39 mins      █████████████░░░░░░░░░░░░   53.71 % 
-Mac                      12 hrs 38 mins      ████████████░░░░░░░░░░░░░   46.29 % 
+💻 Operating System:
+Linux                    14 hrs 39 mins      █████████████░░░░░░░░░░░░   53.71 %
+Mac                      12 hrs 38 mins      ████████████░░░░░░░░░░░░░   46.29 %
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
-TypeScript               20 repos            █████████████░░░░░░░░░░░░   52.63 % 
-Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+TypeScript               20 repos            █████████████░░░░░░░░░░░░   52.63 %
+Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 %
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 
