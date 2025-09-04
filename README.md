@@ -145,18 +145,34 @@
 </section>
 
 <section>
+<h3>Databases</h3>
+  <img src="https://img.shields.io/badge/redis-%23DD0031?&style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-23316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+</section>
+
+<section>
+  <h3>Technologies</h3>
+  <img src="https://img.shields.io/badge/redis-%23DD0031?&style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+</section>
+
+<section>
   <h3>Libraries</h3>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/redux-23593d88?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/daisyui-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=white">
 </section>
 
 <section>
   <h3>Frameworks</h3>
   <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white">
 </section>
 
 <section>
@@ -173,14 +189,16 @@
   <h3>Text Editors / Code Editors / IDEs</h3>
   <img src="https://img.shields.io/badge/NeoVim-2357A143?&style=for-the-badge&logo=neovim&logoColor=white">
   <img src="https://img.shields.io/badge/Vim-019733?&style=for-the-badge&logo=vim&logoColor=white">
+  <img src="https://img.shields.io/badge/zed-white?&style=for-the-badge&logo=zedindustries&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> -->
 </section>
 
 <section>
   <h3>Terminals</h3>
   <img src="https://img.shields.io/badge/kitty-000000?style=for-the-badge">
+  <img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term&style=for-the-badge">
+  <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge">
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/ghosty-3551f3?style=for-the-badge&logo=ghostery&logoColor=white"> -->
@@ -193,6 +211,7 @@
   <h3>Apps</h3>
   <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Zen%20Browser-F76F53?style=for-the-badge&logo=zenbrowser&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"> -->
 </section>
 
@@ -217,11 +236,7 @@
 <section>
   <h3>Technologies</h3>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-%23DD0031?&style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/postgres-23316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-%23039BE5?style=for-the-badge&logo=firebase">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
 </section>
 
 <section>
