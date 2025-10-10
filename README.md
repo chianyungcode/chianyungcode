@@ -344,14 +344,14 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [chianyungcode/chianyungcode](https://github.com/chianyungcode/chianyungcode)<br>
-2. ⬆️ Pushed 1 commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [chianyungcode/chianyungcode](https://github.com/chianyungcode/chianyungcode)<br>
 3. ⬆️ Pushed 1 commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
 4. ⬆️ Pushed 1 commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [chianyungcode/chianyungcode](https://github.com/chianyungcode/chianyungcode)<br>
+5. ⬆️ Pushed 1 commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 9th, 2025, 8:06:45 PM
+Last Updated: Friday, October 10th, 2025, 8:08:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
