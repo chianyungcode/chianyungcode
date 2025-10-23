@@ -345,15 +345,15 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [chianyungcode/chianyungcode](https://github.com/chianyungcode/chianyungcode)<br>
+1. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
 2. ⬆️ Pushed undefined commit(s) to [chianyungcode/chianyungcode](https://github.com/chianyungcode/chianyungcode)<br>
-3. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-4. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+3. ⬆️ Pushed undefined commit(s) to [chianyungcode/chianyungcode](https://github.com/chianyungcode/chianyungcode)<br>
+4. ⬆️ Pushed undefined commit(s) to [chianyungcode/chianyungcode](https://github.com/chianyungcode/chianyungcode)<br>
 5. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 22nd, 2025, 8:07:17 PM
+Last Updated: Thursday, October 23rd, 2025, 8:08:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
