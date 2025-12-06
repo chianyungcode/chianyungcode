@@ -346,14 +346,14 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-2. ⬆️ Pushed undefined commit(s) to [chianyungcode/chianyungcode](https://github.com/chianyungcode/chianyungcode)<br>
-3. ⬆️ Pushed undefined commit(s) to [chianyungcode/chianyungcode](https://github.com/chianyungcode/chianyungcode)<br>
-4. ⬆️ Pushed undefined commit(s) to [chianyungcode/chianyungcode](https://github.com/chianyungcode/chianyungcode)<br>
-5. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+2. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+3. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+4. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+5. ⬆️ Pushed undefined commit(s) to [chianyungcode/chianyungcode](https://github.com/chianyungcode/chianyungcode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 6th, 2025, 8:07:38 AM
+Last Updated: Saturday, December 6th, 2025, 8:06:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
