@@ -349,11 +349,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 2. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
 3. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
 4. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-5. ⬆️ Pushed undefined commit(s) to [chianyungcode/chianyungcode](https://github.com/chianyungcode/chianyungcode)<br>
+5. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 7th, 2025, 8:06:13 PM
+Last Updated: Monday, December 8th, 2025, 8:09:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
