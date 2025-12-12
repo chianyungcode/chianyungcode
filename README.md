@@ -345,15 +345,15 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#44](https://github.com/chianyungcode/dotfiles/issues/44) in [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-2. ✔️ Closed issue [#73](https://github.com/chianyungcode/dotfiles/issues/73) in [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-3. ✔️ Closed issue [#76](https://github.com/chianyungcode/dotfiles/issues/76) in [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-4. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+1. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+2. ❗️ Opened issue [#83](https://github.com/chianyungcode/dotfiles/issues/83) in [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+3. ❗️ Opened issue [#82](https://github.com/chianyungcode/dotfiles/issues/82) in [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+4. ❗️ Opened issue [#81](https://github.com/chianyungcode/dotfiles/issues/81) in [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
 5. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 12th, 2025, 8:09:08 AM
+Last Updated: Friday, December 12th, 2025, 8:06:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
