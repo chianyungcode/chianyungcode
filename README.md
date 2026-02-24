@@ -345,15 +345,15 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [dendritic-nix/den](https://github.com/dendritic-nix/den)<br>
-2. ⬆️ Pushed undefined commit(s) to [dendritic-nix/den](https://github.com/dendritic-nix/den)<br>
-3. ⬆️ Pushed undefined commit(s) to [dendritic-nix/den](https://github.com/dendritic-nix/den)<br>
+1. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+2. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+3. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
 4. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-5. 💪 Opened PR [#11](undefined) in [dendritic-nix/den](https://github.com/dendritic-nix/den)<br>
+5. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 24th, 2026, 8:18:38 AM
+Last Updated: Tuesday, February 24th, 2026, 8:13:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
