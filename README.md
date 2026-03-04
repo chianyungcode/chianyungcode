@@ -345,15 +345,15 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#90](https://github.com/chianyungcode/dotfiles/issues/90) in [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-2. ✔️ Closed issue [#100](https://github.com/chianyungcode/dotfiles/issues/100) in [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-3. ✔️ Closed issue [#99](https://github.com/chianyungcode/dotfiles/issues/99) in [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-4. ✔️ Closed issue [#93](https://github.com/chianyungcode/dotfiles/issues/93) in [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-5. ✔️ Closed issue [#97](https://github.com/chianyungcode/dotfiles/issues/97) in [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+1. 💪 Opened PR [#8](undefined) in [seraphynee/dotnix](https://github.com/seraphynee/dotnix)<br>
+2. 🤝 Became collaborator on [seraphynee/dotnix](https://github.com/seraphynee/dotnix)<br>
+3. ✔️ Closed issue [#90](https://github.com/chianyungcode/dotfiles/issues/90) in [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+4. ✔️ Closed issue [#100](https://github.com/chianyungcode/dotfiles/issues/100) in [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+5. ✔️ Closed issue [#99](https://github.com/chianyungcode/dotfiles/issues/99) in [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 3rd, 2026, 8:11:01 PM
+Last Updated: Wednesday, March 4th, 2026, 8:13:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
