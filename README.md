@@ -345,15 +345,15 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!-- Recent activities (Readme-Workflows): https://github.com/Readme-Workflows/recent-activity/ -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#21](undefined) in [seraphynee/dotnix](https://github.com/seraphynee/dotnix)<br>
-2. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-3. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-4. 💪 Opened PR [#8](undefined) in [seraphynee/dotnix](https://github.com/seraphynee/dotnix)<br>
-5. 🤝 Became collaborator on [seraphynee/dotnix](https://github.com/seraphynee/dotnix)<br>
+1. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+2. ⬆️ Pushed undefined commit(s) to [seraphynee/dotnix](https://github.com/seraphynee/dotnix)<br>
+3. 👍 Approved [#22](https://github.com/seraphynee/dotnix/pull/22#pullrequestreview-3936517031) in [seraphynee/dotnix](https://github.com/seraphynee/dotnix)<br>
+4. 💪 Opened PR [#21](undefined) in [seraphynee/dotnix](https://github.com/seraphynee/dotnix)<br>
+5. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 12th, 2026, 8:17:22 AM
+Last Updated: Thursday, March 12th, 2026, 8:11:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
