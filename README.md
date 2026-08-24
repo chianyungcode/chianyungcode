@@ -346,14 +346,14 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [seraphynee/dotnix](https://github.com/seraphynee/dotnix)<br>
-2. 👍 Approved [#31](https://github.com/seraphynee/dotnix/pull/31#pullrequestreview-5005371950) in [seraphynee/dotnix](https://github.com/seraphynee/dotnix)<br>
-3. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-4. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
-5. ⬆️ Pushed undefined commit(s) to [chianyungcode/dotfiles](https://github.com/chianyungcode/dotfiles)<br>
+2. ⬆️ Pushed undefined commit(s) to [seraphynee/dotnix](https://github.com/seraphynee/dotnix)<br>
+3. 👍 Approved [#32](https://github.com/seraphynee/dotnix/pull/32#pullrequestreview-5008240195) in [seraphynee/dotnix](https://github.com/seraphynee/dotnix)<br>
+4. 👍 Approved [#34](https://github.com/seraphynee/dotnix/pull/34#pullrequestreview-5008161402) in [seraphynee/dotnix](https://github.com/seraphynee/dotnix)<br>
+5. ⬆️ Pushed undefined commit(s) to [seraphynee/dotnix](https://github.com/seraphynee/dotnix)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 24th, 2026, 8:49:07 AM
+Last Updated: Monday, August 24th, 2026, 8:30:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
